@@ -1,0 +1,44 @@
+.square-box {
+    height: 30px;
+    width: 30px;
+    margin-left: 34px;
+}
+
+.rectangle {
+    height: 30px;
+    width: 367px;
+    margin-left: 51px;
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: cyan;
+    display: flex;
+    align-items: center;
+}
+
+
+
+main {
+    height: 650px;
+    width: 1000px;
+}
+
+main article {
+    margin-top: 15px;
+}
+
+section {
+    margin-left: 120px;
+    margin-top: 15px;
+    width: 1000px;
+    height: 540px;
+    background-color: black;
+}
+
+footer {
+    height: 248px;
+    width: 100%;
+    background-color: black;
+}
