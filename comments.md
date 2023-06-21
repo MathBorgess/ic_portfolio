@@ -1,3 +1,5 @@
+media queries
+
 The first box is about me and what I can do, like backend development, cloud computing and infra management
 
 The second one is about the technologies that I've used to
