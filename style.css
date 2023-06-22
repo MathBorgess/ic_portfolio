@@ -269,7 +269,7 @@ section {
   float: left;
   background-size: cover;
 }
-#contact div {
+#contact a {
   width: 50%;
   aspect-ratio: 8/2;
 }
